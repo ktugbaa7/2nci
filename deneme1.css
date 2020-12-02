@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+#container {
+    background-color: rgb(245, 188, 216);
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#alan {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+#kutu0 {
+    background: chartreuse;
+    width: 150px;
+    height: 150px;
+    
+    
+}
+#kutu1 {
+    background: rgb(26, 180, 160);
+    width: 150px;
+    height: 150px;
+    margin-left: 180px;
+    margin-top: -150px;
+    
+    
+}
+#kutu2 {
+    background: darkslateblue;
+    width: 150px;
+    height: 150px;
+    margin-left: 360px;
+    margin-top: -150px;
+    
+     
+}
+#kutu3 {
+    background: deeppink;
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    
+      
+}
+#kutu4 {
+    background: rgb(233, 24, 17);
+    width: 150px;
+    height: 150px;
+    margin-left: 180px;
+    margin-top: -150px;
+    
+
+} 
+
+#kutu5 {
+    background: rgb(235, 110, 27);
+    width: 150px;
+    height: 150px;
+    margin-left: 360px;
+    margin-top: -150px;
+    
+     
+}
